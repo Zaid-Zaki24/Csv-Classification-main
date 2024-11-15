@@ -2,3 +2,5 @@ importlib
 autopep8
 chardet
 google-generativeai
+matplotlib
+plotly
