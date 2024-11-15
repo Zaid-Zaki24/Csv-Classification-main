@@ -1,4 +1,4 @@
 importlib
 autopep8
 chardet
-google
+google-generativeai
