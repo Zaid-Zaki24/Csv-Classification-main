@@ -4,3 +4,4 @@ chardet
 google-generativeai
 matplotlib
 plotly
+seaborn
