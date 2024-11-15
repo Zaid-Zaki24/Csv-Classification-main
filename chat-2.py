@@ -1,5 +1,4 @@
 import importlib.util
-import warnings
 from config import model
 import autopep8
 import os
